@@ -85,7 +85,7 @@ export const NavSearch = styled.input.attrs({
 		width: 240px;
 	}
 	&.slide-enter {
-		transition: all .2s ease-out;
+		transition: all <div className="2s"></div> ease-out;
 	}
 	&.slide-enter-active {
 		width: 240px;
@@ -162,7 +162,7 @@ export const Button = styled.div `
 	line-height: 38px;
 	border-radius: 19px;
 	border: 1px solid #ec6149;
-	font-siz: 14px;
+	font-size: 14px;
 	&.reg {
 		color: #ec6149;
 	}
