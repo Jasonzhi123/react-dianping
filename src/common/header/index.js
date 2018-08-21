@@ -73,7 +73,7 @@ const Header=(props)=>{
           <Addition>
             <Button className='writting'>
        				<i className="iconfont">&#xe615;</i>
-            写文章
+            写文章a
           </Button>
           <Button className='reg'>注册</Button>
           </Addition>
